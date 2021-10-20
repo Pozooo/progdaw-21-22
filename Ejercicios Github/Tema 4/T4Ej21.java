@@ -26,6 +26,6 @@ public class T4Ej21 {
       System.out.println("Tu nota de programación es: " +notamedia);
     }
     }
-  no funciona el final
+  preguntar por que no funciona el final
   }
 }
